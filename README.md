@@ -16,7 +16,8 @@ inclusivity ensures that all patrons can quickly and
 confidently place their orders without relying on external
 assistance. 
 
-![Food_order.gif.mp4]
+![Food_order.gif.mp4](https://github.com/gunasai197/College_Mini_Project/blob/main/Food_order.gif)
+
 
 # Algorithms used:
 Hybrid of
