@@ -16,8 +16,7 @@ inclusivity ensures that all patrons can quickly and
 confidently place their orders without relying on external
 assistance. 
 
-![Food_order.gif.mp4](https://github.com/azam-md/HandGesture-based-Food-Ordering-System/assets/100486610/412eccd4-cd2b-406a-b832-f25dgite0f59179)
-
+![Food_order.gif.mp4]
 
 # Algorithms used:
 Hybrid of
