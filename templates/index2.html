@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sign&Dine</title>
+    <title>Order your Food</title>
 <script src="https://cdn.socket.io/4.0.1/socket.io.min.js"></script>
 <script>
-const BASE_URL = "{{ url_for('static', filename='') }}";
+   const BASE_URL = "{{ url_for('static', filename='') }}";
 </script>
 
     <style>
@@ -16,7 +16,7 @@ const BASE_URL = "{{ url_for('static', filename='') }}";
         }
         
         .bg-image {
-            width: 50%; /* Half the width of the page */
+    width: 50%; /* Half the width of the page */
     height: 100vh; /* Full viewport height */
     float: left; /* Keep it on the left side of the page */
     background-image: url('{{ url_for("static", filename="background.png") }}');
@@ -55,7 +55,7 @@ display: none;  /* Initially hidden */
 }   
 .video-feed {
     position: absolute;
-    top: 167px;  /* This will push it 50 pixels down */
+    top: 170px;  /* This will push it 50 pixels down */
     left: 57px;
     margin-right: 50px;
     width: 41%;
@@ -76,7 +76,7 @@ display: none;  /* Initially hidden */
     grid-template-columns: repeat(3, 1fr); /* This creates a  grid */
     gap: 100px; /* Spacing between icons */
     position:absolute;
-    top: 70%;  /* Adjust this to position the grid vertically as you want */
+    top: 75%;  /* Adjust this to position the grid vertically as you want */
     left: 43%;  /* Adjust this to position the grid horizontally as you want */
     transform: translate(-50%, -50%);  /* Center the grid */
 }
